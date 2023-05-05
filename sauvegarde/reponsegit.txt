@@ -1,0 +1,12 @@
+CC Git Alexandre sentier
+
+1) Conserver un historique; Revenir en arrière en cas de problème, Travailler à plusieurs, Suivre les modifications de chaque fichier
+2)Vrai
+3) git init
+4)Working directory, Repository, Index
+5) git remote DEP add https://github.com/xxxxxx/monDepotDistant
+6) Git clone
+7) git status; git stash; git branch BranchFile; git checkout BranchFile; git stash apply
+8) modifier le message du commit précédent
+9) git revert crée un nouveau commit alors que git reset, non
+10) git blame
